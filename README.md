@@ -23,8 +23,6 @@ git clone https://github.com/ficopang/subscription.git
 cd subscription
 ```
 
-````
-
 ### Install Dependencies
 
 Install PHP dependencies using Composer:
