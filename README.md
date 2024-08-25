@@ -1,4 +1,3 @@
-````markdown
 # Subscription Platform
 
 This project is a simple subscription platform built with Laravel 10, Eloquent ORM, and MySQL. It includes features for subscribing to websites and receiving email notifications when new posts are published.
@@ -23,6 +22,7 @@ Clone the repository to your local machine:
 git clone https://github.com/ficopang/subscription.git
 cd subscription
 ```
+
 ````
 
 ### Install Dependencies
@@ -100,3 +100,4 @@ php artisan serve
 ```
 
 Access the application at `http://localhost:8000`.
+````
