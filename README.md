@@ -2,7 +2,7 @@
 
 This project is a simple subscription platform built with Laravel 10, Eloquent ORM, and MySQL. It includes features for subscribing to websites and receiving email notifications when new posts are published.
 
-Postman documentation: https://documenter.getpostman.com/view/15528369/2sAXjF9F9A[https://documenter.getpostman.com/view/15528369/2sAXjF9F9A]
+Postman documentation: [https://documenter.getpostman.com/view/15528369/2sAXjF9F9A](https://documenter.getpostman.com/view/15528369/2sAXjF9F9A)
 
 ## Prerequisites
 
@@ -98,4 +98,3 @@ php artisan serve
 ```
 
 Access the application at `http://localhost:8000`.
-````
